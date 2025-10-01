@@ -1,0 +1,3 @@
+module.exports = {};{ "name": "rtc-website", "version": "1.0.0" }export default function About(){ return <div>About RTC</div> }export default function handler(req, res){ res.status(200).json({ reply: 'Chatbot ready!' }); }export default function Home(){ return <div>Welcome to RTC</div> }# RTC Website
+
+This is the RTC Next.js + Tailwind project starter.
