@@ -241,7 +241,10 @@ module.exports = {
         rtcBurgundy: "#800020",
         rtcGold: "#D4AF37",
       },
-    },
+    },git add .
+git commit -m "Replaced with full RTC website"
+git push origin main
+
   },
   plugins: [],
 };
